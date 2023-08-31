@@ -1,0 +1,48 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Anmol Biranwar",
+      "username": "Anmol13",
+      "email": "anmol@13gmail.com",
+      "phone": "7787878566",
+      "website": "anmol.org"
+    },
+    {
+      "id": 2,
+      "name": "Prajwal Biranwar",
+      "username": "Prajwal12",
+      "email": "prajwal@12gmail.com",
+      "phone": "9977878235",
+      "website": "prajwal.org"
+    },
+    {
+      "id": 3,
+      "name": "Nikhil Biranwar",
+      "username": "Nikhil17",
+      "email": "nikhil@17gmail.com",
+      "phone": "7722338566",
+      "website": "nikhil.org"
+    },
+    {
+      "id": 4,
+      "name": "Munna Biranwar",
+      "username": "Munna04",
+      "email": "munna@04gmail.com",
+      "phone": "7213878660",
+      "website": "munna.org"
+    },
+    {
+      "name": "Saurabh",
+      "email": "Saurabh@gmail.com",
+      "phone": "56465656563",
+      "id": 17
+    },
+    {
+      "name": "Himanshu Kale",
+      "email": "Himanshukale@gmail.com",
+      "phone": "1246478465",
+      "id": 20
+    }
+  ]
+}
